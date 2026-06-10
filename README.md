@@ -1,19 +1,12 @@
-
----
-
-## ۵. DeFi Yield Aggregator
-
+DeFi Yield Aggregator
 ```markdown
 # DeFi Yield Aggregator
 
 Yield farming strategy optimizer.
-
 ## Strategies
-
 - Compound/Aave lending
 - Uniswap liquidity mining
 - Curve stable swaps
-
 ## Architecture
 
 - Strategy controller
