@@ -8,7 +8,6 @@ Yield farming strategy optimizer.
 - Uniswap liquidity mining
 - Curve stable swaps
 ## Architecture
-
 - Strategy controller
 - Risk manager
 - Auto-compounder
