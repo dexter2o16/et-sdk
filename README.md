@@ -10,7 +10,5 @@ Yield farming strategy optimizer.
 - Strategy controller
 - Risk manager
 - Auto-compounder
-
 ## License
-
 MIT
