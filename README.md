@@ -6,7 +6,6 @@ Yield  strategy optimizer.
 - Compound/Aave lending
 - Uniswap liquidity mining
 - Curve stable swaps
-## Architecture
 - Strategy controller
 - Risk manager
 - Auto-compounder
