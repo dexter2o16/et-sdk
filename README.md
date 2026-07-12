@@ -9,4 +9,3 @@ Yield  strategy optimizer.
 - Risk manager
 - Auto-compounder
 ## License
-MIT
