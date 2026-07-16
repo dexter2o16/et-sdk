@@ -1,5 +1,4 @@
 DeFi Yield Aggregator
-```markdown
 # DeFi Yield Aggregator
 Yield  strategy optimizer.
 - Compound/Aave lending
