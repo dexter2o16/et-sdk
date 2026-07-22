@@ -5,5 +5,5 @@ Yield  strategy optimizer.
 - Uniswap liquidity mining
 - Curve stable swaps
 - Strategy controller
-- Auto-compounder
+- Autocompounder
 ## License
